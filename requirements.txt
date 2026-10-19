@@ -1,0 +1,6 @@
+fastapi==0.146.0
+httpx==0.28.1
+pytest==9.1.1
+sqlmodel==0.0.48
+uvicorn==0.54.0
+SQLAlchemy==2.0.44
