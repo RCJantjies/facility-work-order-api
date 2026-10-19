@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Main Distribution Board",
+    "location": "Building A - Electrical Room",
+    "criticality": "HIGH"
+  },
+  {
+    "name": "Chiller 01",
+    "location": "Central Plant Room",
+    "criticality": "HIGH"
+  },
+  {
+    "name": "Air Handling Unit 03",
+    "location": "Building B - Level 3",
+    "criticality": "MEDIUM"
+  },
+  {
+    "name": "Domestic Water Pump 02",
+    "location": "Building A - Pump Room",
+    "criticality": "MEDIUM"
+  },
+  {
+    "name": "Meeting Room Lighting Circuit",
+    "location": "Building C - Level 2",
+    "criticality": "LOW"
+  }
+]
